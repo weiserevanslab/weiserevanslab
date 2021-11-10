@@ -3,8 +3,7 @@ title: Home
 ---
 
 # Welcome to the Weiser-Evans Laboratory
-Our goal
-
+Our group is interested in the study of
 
 {:.center}
 
@@ -36,15 +35,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[See our resources &nbsp;→](resources)
+[See our publications &nbsp;→](publications)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  headline="Our Resources"
+  link="publications"
+  headline="Our Publications"
   text=text
 %}
 

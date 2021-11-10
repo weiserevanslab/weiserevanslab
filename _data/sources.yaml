@@ -1,33 +1,8 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-    - knowledge graphs
+- id: pubmed:32580634
+  image:https://www.ahajournals.org/cms/asset/34b376bb-9f2e-4de7-a42e-b6ef03836154/atvb.2020.40.issue-8.cover.gif
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+- id: pubmed:33119549
+  image:https://df6sxcketz7bb.cloudfront.net/volumes/5/23/5-23-cover.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+- id: pubmed:33989378
+  image:https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cardiovascres/PAP/10.1093_cvr_cvab174/2/m_cvab174f3.jpeg?Expires=1639591991&Signature=F23kFDx6FMeXsz7Ja8OjHC66P07HLb2~dbO7x~9GyiYQcFUGdnVGeo24VduhqXyNzxL0YfAzZyAVZncwByjknrbIahC~RPDwBKECa4LS9x~LqzBZOSSXOkAvCEpkltL1qbW1RySmSWwFkbfqTmKha2q1wVkGMEvVS6WkPjco55IZpZlBXJlLf6BAde8uC~X42rgnl1oc9aGE7Clw~9hts1P6TbBvn7IVEHd72XOfvN75oDDnJwanGGPIJ88-WUNO3SFmvUTba4r8lpCmH~PHX1AY38VdEKg-kx6u~2z-0Pb9vZtTNnaB5EJa4YG0YRCsN2qZ8T~raQyX9OmRIkfQCQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
