@@ -14,8 +14,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+# Role of PTEN in pathological vascular remodeling
+{% include section.html %}
+# Contribution of smooth muscle cells derived resident progenitor cells in vascular homeostasis and pathological vascular remodeling.
