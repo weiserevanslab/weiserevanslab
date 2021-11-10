@@ -4,7 +4,6 @@ title: Home
 
 # Your Lab Slogan
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template)
 Spend less time reinventing the wheel, and more time running your lab.
 
 {%
@@ -31,7 +30,7 @@ Spend less time reinventing the wheel, and more time running your lab.
 
 {% include section.html %}
 
-# Highlights
+# Recent Highlights
 
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
