@@ -1,63 +1,76 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: pubmed:32580634
+  title: 'High Throughput Screen Identifies the DNMT1 (DNA Methyltransferase-1) Inhibitor,
+    5-Azacytidine, as a Potent Inducer of PTEN (Phosphatase and Tensin Homolog): Central
+    Role for PTEN in 5-Azacytidine Protection Against Pathological Vascular Remodeling.'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Keith A Strand
+  - Sizhao Lu
+  - Marie F Mutryn
+  - Linfeng Li
+  - Qiong Zhou
+  - Blake T Enyart
+  - Austin J Jolly
+  - Allison M Dubner
+  - Karen S Moulton
+  - Raphael A Nemenoff
+  - Keith A Koch
+  - Daniel V LaBarbera
+  - Mary C M Weiser-Evans
+  publisher: Arteriosclerosis, thrombosis, and vascular biology
+  date: '2020-06-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32580634
+  image: https://www.ahajournals.org/cms/asset/34b376bb-9f2e-4de7-a42e-b6ef03836154/atvb.2020.40.issue-8.cover.gif
+- id: pubmed:33119549
+  title: Smooth muscle-derived progenitor cell myofibroblast differentiation through
+    KLF4 downregulation promotes arterial remodeling and fibrosis.
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Sizhao Lu
+  - Austin J Jolly
+  - Keith A Strand
+  - Allison M Dubner
+  - Marie F Mutryn
+  - Karen S Moulton
+  - Raphael A Nemenoff
+  - Mark W Majesky
+  - Mary Cm Weiser-Evans
+  publisher: JCI insight
+  date: '2020-12-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33119549
+  image: https://df6sxcketz7bb.cloudfront.net/volumes/5/23/5-23-cover.jpg
+- id: pubmed:33989378
+  title: Heterogeneous subpopulations of adventitial progenitor cells regulate vascular
+    homeostasis and pathological vascular remodeling.
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
+  - Austin J Jolly
+  - Sizhao Lu
+  - Keith A Strand
+  - Allison M Dubner
+  - Marie F Mutryn
+  - Raphael A Nemenoff
+  - Mark W Majesky
+  - Karen S Moulton
+  - Mary C M Weiser-Evans
+  publisher: Cardiovascular research
+  date: '2021-05-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33989378
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cardiovascres/PAP/10.1093_cvr_cvab174/2/m_cvab174f3.jpeg?Expires=1639591991&Signature=F23kFDx6FMeXsz7Ja8OjHC66P07HLb2~dbO7x~9GyiYQcFUGdnVGeo24VduhqXyNzxL0YfAzZyAVZncwByjknrbIahC~RPDwBKECa4LS9x~LqzBZOSSXOkAvCEpkltL1qbW1RySmSWwFkbfqTmKha2q1wVkGMEvVS6WkPjco55IZpZlBXJlLf6BAde8uC~X42rgnl1oc9aGE7Clw~9hts1P6TbBvn7IVEHd72XOfvN75oDDnJwanGGPIJ88-WUNO3SFmvUTba4r8lpCmH~PHX1AY38VdEKg-kx6u~2z-0Pb9vZtTNnaB5EJa4YG0YRCsN2qZ8T~raQyX9OmRIkfQCQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- id: pubmed:27834190
+  title: Differentiated Smooth Muscle Cells Generate a Subpopulation of Resident Vascular
+    Progenitor Cells in the Adventitia Regulated by Klf4.
+  authors:
+  - Mark W Majesky
+  - Henrick Horita
+  - Allison Ostriker
+  - Sizhao Lu
+  - Jenna N Regan
+  - Ashim Bagchi
+  - Xiu Rong Dong
+  - Joanna Poczobutt
+  - Raphael A Nemenoff
+  - Mary C M Weiser-Evans
+  publisher: Circulation research
+  date: '2016-11-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27834190
+  image: https://www.ahajournals.org/cms/asset/84ac3a37-08f1-448e-b05b-0c74b8f104c2/res.2017.120.issue-2.cover.gif
