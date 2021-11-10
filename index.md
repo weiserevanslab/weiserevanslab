@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Weiser-Evans Laboratory
+# Welcome to the Weiser-Evans Laboratory
 
 
 {:.center}
