@@ -2,26 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Weiser-Evans Laboratory
 
-Spend less time reinventing the wheel, and more time running your lab.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
@@ -42,7 +25,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/AngII_AO_100x_a.jpg"
   link="research"
   headline="Our Research"
   text=text
