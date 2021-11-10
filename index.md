@@ -3,6 +3,7 @@ title: Home
 ---
 
 # Welcome to the Weiser-Evans Laboratory
+Our goal
 
 
 {:.center}
