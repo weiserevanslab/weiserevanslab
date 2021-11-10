@@ -1,8 +1,8 @@
 ---
-name:  Marie F Mutryn
+name: Austin J Jolly
 image: images/member.jpg
-description: Senior Professional Research Assistant
-role: pra
+description: MD/PhD Student
+role: phd
 ---
 Brief Bio
 A descriptions of academic studies, recent accomplishments, goals for the future, likes/dislikes, etc.

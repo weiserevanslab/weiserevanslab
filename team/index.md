@@ -30,6 +30,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
+  filters="role: pra"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: postdoc"
 %}
 {%
