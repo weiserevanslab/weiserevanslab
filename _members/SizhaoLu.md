@@ -1,6 +1,6 @@
 ---
 name: Sizhao Lu
-image: images/member.jpg
+image: images/team/sizhaolu.jpg
 description: Instructor
 role: instructor
 ---
