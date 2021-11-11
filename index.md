@@ -7,10 +7,6 @@ Our group is interested in the study of
 
 {:.center}
 
-{% include section.html full=true %}
-
-{% include banner.html image="images/banner.jpg" %}
-
 {% include section.html %}
 
 # Recent Highlights
@@ -35,13 +31,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[See our publications &nbsp;→](publications)
+[See what we do &nbsp;→](publications)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/publications/atvblargecover.jpg"
   link="publications"
   headline="Our Publications"
   text=text
