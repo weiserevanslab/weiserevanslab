@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 4
   tooltip: About our team
 ---
 
@@ -56,7 +56,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include link.html
   icon="fas fa-hands-helping"
   text="Join the Team"
-  link="join"
+  link="contact"
   style="button"
 %}
 {:.center}

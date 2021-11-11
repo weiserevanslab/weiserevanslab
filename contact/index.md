@@ -1,14 +1,11 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 6
   tooltip: Email, address, and location
 ---
 
 # <i class="fas fa-envelope"></i>Contact
-
-Our lab is part of the [Division of Renal Diseases and Hypertension](https://medschool.cuanschutz.edu/renal), at the [University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/).
-We are located on the 7th floor of the CU Anschutz Research Complex II.
 
 {%
   include link.html
@@ -43,7 +40,7 @@ We are located on the 7th floor of the CU Anschutz Research Complex II.
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-University of Colorado Anschutz Medical Campus
-12700 East 19th Avenue, C281
+University of Colorado Anschutz Medical Campus<br>
+12700 East 19th Avenue, C281<br>
 Aurora, CO, 80045
 {:.center}
