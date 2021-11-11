@@ -85,4 +85,8 @@ Our work is made possible by funding from several organizations.
   image2="images/funding/cfret-logo.png"
   link2="https://medschool.cuanschutz.edu/consortium-for-fibrosis-research-translation"
   tooltip2="Consortium for Fibrosis Research and Translation"
+
+  image3="images/funding/chernowitz-logo.png"
+  link3="https://www.chernowitz.org/"
+  tooltip3="Chernowitz Medical Research Foundation"
 %}
