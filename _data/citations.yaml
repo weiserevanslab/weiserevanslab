@@ -74,3 +74,151 @@
   date: '2016-11-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27834190
   image: https://www.ahajournals.org/cms/asset/84ac3a37-08f1-448e-b05b-0c74b8f104c2/res.2017.120.issue-2.cover.gif
+- id: pubmed:31852223
+  title: PTEN (Phosphatase and Tensin Homolog) Protects Against Ang II (Angiotensin
+    II)-Induced Pathological Vascular Fibrosis and Remodeling-Brief Report.
+  authors:
+  - Sizhao Lu
+  - Keith A Strand
+  - Marie F Mutryn
+  - Rebecca M Tucker
+  - Austin J Jolly
+  - Seth B Furgeson
+  - Karen S Moulton
+  - Raphael A Nemenoff
+  - Mary C M Weiser-Evans
+  publisher: Arteriosclerosis, thrombosis, and vascular biology
+  date: '2019-12-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31852223
+  image: https://www.ahajournals.org/cms/asset/eddfff9e-8284-4a85-8d08-121508ab952f/394ga1.jpg
+- id: pubmed:29467331
+  title: PTEN deficiency promotes pathological vascular remodeling of human coronary
+    arteries.
+  authors:
+  - Karen S Moulton
+  - Marcella Li
+  - Keith Strand
+  - Shawna Burgett
+  - Penn McClatchey
+  - Rebecca Tucker
+  - Seth B Furgeson
+  - Sizhao Lu
+  - Bruce Kirkpatrick
+  - Joseph C Cleveland
+  - Raphael A Nemenoff
+  - Amrut V Ambardekar
+  - Mary Cm Weiser-Evans
+  publisher: JCI insight
+  date: '2018-02-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29467331
+  image: images/publications/jci.insight.karen.jpg
+- id: pubmed:26940659
+  title: Nuclear PTEN functions as an essential regulator of SRF-dependent transcription
+    to control smooth muscle differentiation.
+  authors:
+  - Henrick Horita
+  - Christina L Wysoczynski
+  - Lori A Walker
+  - Karen S Moulton
+  - Marcella Li
+  - Allison Ostriker
+  - Rebecca Tucker
+  - Timothy A McKinsey
+  - Mair E A Churchill
+  - Raphael A Nemenoff
+  - Mary C M Weiser-Evans
+  publisher: Nature communications
+  date: '2016-03-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26940659
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms10830/MediaObjects/41467_2016_Article_BFncomms10830_Fig9_HTML.jpg?as=webp
+- id: pubmed:24526697
+  title: "Vascular smooth muscle cell-derived transforming growth factor-\u03B2 promotes\
+    \ maturation of activated, neointima lesion-like macrophages."
+  authors:
+  - Allison Ostriker
+  - Henrick N Horita
+  - Joanna Poczobutt
+  - Mary C M Weiser-Evans
+  - Raphael A Nemenoff
+  publisher: Arteriosclerosis, thrombosis, and vascular biology
+  date: '2014-02-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24526697
+- id: pubmed:23727701
+  title: Selective inactivation of PTEN in smooth muscle cells synergizes with hypoxia
+    to induce severe pulmonary hypertension.
+  authors:
+  - Henrick Horita
+  - Seth B Furgeson
+  - Allison Ostriker
+  - Kyle A Olszewski
+  - Timothy Sullivan
+  - Leah R Villegas
+  - Michelle Levine
+  - Jane E Parr
+  - Carlyne D Cool
+  - Raphael A Nemenoff
+  - Mary C M Weiser-Evans
+  publisher: Journal of the American Heart Association
+  date: '2013-05-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23727701
+- id: pubmed:21940949
+  title: Serum response factor regulates expression of phosphatase and tensin homolog
+    through a microRNA network in vascular smooth muscle cells.
+  authors:
+  - Henrick N Horita
+  - Peter A Simpson
+  - Allison Ostriker
+  - Seth Furgeson
+  - Vicki Van Putten
+  - Mary C M Weiser-Evans
+  - Raphael A Nemenoff
+  publisher: Arteriosclerosis, thrombosis, and vascular biology
+  date: '2011-09-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21940949
+- id: pubmed:21415388
+  title: "SDF-1\u03B1 induction in mature smooth muscle cells by inactivation of PTEN\
+    \ is a critical mediator of exacerbated injury-induced neointima formation."
+  authors:
+  - Raphael A Nemenoff
+  - Henrick Horita
+  - Allison C Ostriker
+  - Seth B Furgeson
+  - Peter A Simpson
+  - Vicki VanPutten
+  - Joseph Crossno
+  - Stefan Offermanns
+  - Mary C M Weiser-Evans
+  publisher: Arteriosclerosis, thrombosis, and vascular biology
+  date: '2011-03-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21415388
+- id: pubmed:20051384
+  title: Inactivation of the tumour suppressor, PTEN, in smooth muscle promotes a
+    pro-inflammatory phenotype and enhances neointima formation.
+  authors:
+  - Seth B Furgeson
+  - Peter A Simpson
+  - Insun Park
+  - Vicki Vanputten
+  - Henrick Horita
+  - Christopher D Kontos
+  - Raphael A Nemenoff
+  - Mary C M Weiser-Evans
+  publisher: Cardiovascular research
+  date: '2010-01-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20051384
+- id: pubmed:18340011
+  title: Targeted deletion of PTEN in smooth muscle cells results in vascular remodeling
+    and recruitment of progenitor cells through induction of stromal cell-derived
+    factor-1alpha.
+  authors:
+  - Raphael A Nemenoff
+  - Peter A Simpson
+  - Seth B Furgeson
+  - Nihal Kaplan-Albuquerque
+  - Joseph Crossno
+  - Pamela J Garl
+  - James Cooper
+  - Mary C M Weiser-Evans
+  publisher: Circulation research
+  date: '2008-03-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18340011
