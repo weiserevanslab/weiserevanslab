@@ -3,6 +3,8 @@ name: Austin Jolly
 image: images/member.jpg
 description: MD/PhD Student
 role: phd
+aliases:
+  - Austin J Jolly
 ---
 Brief Bio
 A descriptions of academic studies, recent accomplishments, goals for the future, likes/dislikes, etc.

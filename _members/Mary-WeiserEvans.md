@@ -3,6 +3,8 @@ name: Mary Weiser-Evans
 image: images/member.jpg
 description: Principal Investigator
 role: pi
+aliases:
+  - Mary C M Weiser-Evans
 ---
 Brief Bio
 A descriptions of academic studies, recent accomplishments, goals for the future, likes/dislikes, etc.

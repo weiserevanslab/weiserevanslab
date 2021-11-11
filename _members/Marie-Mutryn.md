@@ -3,6 +3,8 @@ name:  Marie Mutryn
 image: images/member.jpg
 description: Senior Professional Research Assistant
 role: pra
+aliases:
+  - Marie F Mutryn
 ---
 Brief Bio
 A descriptions of academic studies, recent accomplishments, goals for the future, likes/dislikes, etc.
