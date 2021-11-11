@@ -1,5 +1,5 @@
 ---
-name: Mary C M Weiser-Evans
+name: Mary Weiser-Evans
 image: images/member.jpg
 description: Principal Investigator
 role: pi

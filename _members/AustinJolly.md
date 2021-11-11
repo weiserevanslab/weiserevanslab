@@ -1,5 +1,5 @@
 ---
-name: Austin J Jolly
+name: Austin Jolly
 image: images/member.jpg
 description: MD/PhD Student
 role: phd

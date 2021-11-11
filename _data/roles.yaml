@@ -1,27 +1,20 @@
 pi:
   icon: fas fa-chalkboard-teacher
-  text: Principal Investigator
 
 instructor:
-  icon: fas fa-robot
-  text: Instructor
+  icon: fas fa-microscope
 
 postdoc:
   icon: fas fa-glasses
-  text: Postdoctoral Researcher
 
 phd:
   icon: fas fa-graduation-cap
-  text: PhD Student
 
 undergrad:
   icon: fas fa-user-graduate
-  text: Undergraduate Student
 
 pra:
-  icon: fas fa-code
-  text: Professional Research Assistant
+  icon: fas fa-vial
 
 mascot:
   icon: fas fa-dog
-  text: Mascot

@@ -1,5 +1,5 @@
 ---
-name:  Marie F Mutryn
+name:  Marie Mutryn
 image: images/member.jpg
 description: Senior Professional Research Assistant
 role: pra

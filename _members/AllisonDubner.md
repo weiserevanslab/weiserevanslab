@@ -1,5 +1,5 @@
 ---
-name: Allison M Dubner
+name: Allison Dubner
 image: images/member.jpg
 description: PhD Student
 role: phd
