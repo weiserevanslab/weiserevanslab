@@ -5,7 +5,7 @@ nav:
   tooltip: What's new about us
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i>News
 
 {% include section.html %}
 
