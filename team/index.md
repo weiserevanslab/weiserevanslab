@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>Current Members
 
 {% include section.html %}
 
@@ -41,6 +41,18 @@ nav:
 %}
 
 {:.center}
+
+{% include section.html %}
+- <i class="fas fa-address-book"></i>Alumni
+  - Keith Strand<br>
+  Postdoc<br>
+  Currently: Senior Scientist at Pfizer
+  - Henrick Horita<br>
+  Postdoc<br>
+  Currently: Marketing and Sales Manager at Cytoskeleton, Inc
+  - Allison Ostriker<br>
+  Graduate Student<br>
+  Currently: Associate Research Scientist at Yale University
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
