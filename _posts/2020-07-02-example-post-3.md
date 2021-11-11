@@ -1,5 +1,5 @@
 ---
-title: Example post 1
+title: Example post 3
 tags:
   - LabNews
 author: Sizhao Lu
