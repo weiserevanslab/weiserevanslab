@@ -11,9 +11,7 @@ baseurl: ""
 # site social media and other links
 links:
   email: MARY.WEISER-EVANS@CUANSCHUTZ.EDU
-  google-scholar: Jane Smith
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  twitter: WeiserEvansLab
 
 # automatic citations
 auto-cite:
