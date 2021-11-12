@@ -43,7 +43,7 @@ nav:
 {:.center}
 
 {% include section.html %}
-**Alumni**
+- **Alumni**
   - Keith Strand<br>
   Postdoc<br>
   Currently: Senior Scientist at Pfizer
