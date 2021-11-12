@@ -78,9 +78,9 @@ Our work is made possible by funding from several organizations.
 {%
   include gallery.html
 
-  image1="images/funding/nih-logo.png"
-  link1="https://www.nih.gov/"
-  tooltip1="National Institutes of Health"
+  image1="images/funding/nih-logo.svg"
+  link1="https://www.nhlbi.nih.gov/"
+  tooltip1="National Heart, Lung, and Blood Institute"
 
   image2="images/funding/cfret-logo.png"
   link2="https://medschool.cuanschutz.edu/consortium-for-fibrosis-research-translation"
