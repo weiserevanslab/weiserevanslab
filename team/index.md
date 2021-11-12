@@ -43,7 +43,7 @@ nav:
 {:.center}
 
 {% include section.html %}
-- <i class="fas fa-address-book"></i>Alumni
+<i class="fas fa-address-book"></i>Alumni
   - Keith Strand<br>
   Postdoc<br>
   Currently: Senior Scientist at Pfizer
