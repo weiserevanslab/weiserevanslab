@@ -21,7 +21,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/research/allisonumap.png"
+  image="images/research/research.tif"
   link="research"
   headline="Our Research"
   text=text
