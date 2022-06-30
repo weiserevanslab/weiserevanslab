@@ -32,3 +32,16 @@ Using our smooth muscle cell fate-mapping system, we were the first group to def
   text=text
 %}
 Our data suggest these cells play important roles in arterial homeostasis and disease and manipulating these cells in situ could improve therapeutic applications in settings such as atherosclerosis/restenosis, aneurysm formation, ischemic tissues, and tumor angiogenesis.  Our studies have shown that AdvSca1-SM cells are major contributors to pathological vascular remodeling and fibrosis, atherosclerosis progression, and organ fibrosis, including cardiac and kidney fibrosis. Current research is focused on defining mechanisms underlying smooth muscle cell reprogramming to AdvSca1-SM cells as well as their regulation during disease progression.
+
+{% include section.html %}
+
+# Role of the tumor microenvironment in lung cancer progression and metastasis:
+{% capture text %}
+We developed a novel lung cancer metastasis model in order to define the role of the lung tumor microenvironment on lung cancer progression, to define specific signaling pathways activated in both cancer cells and the tumor microenvironment that regulate cancer progression, and to test potential therapeutic agents. This system is an immunocompetent orthotopic mouse model, in which murine lung cancer cells derived from C57BL/6 mice are directly injected into the lungs of syngeneic mice.
+{% endcapture %}
+{%
+  include feature.html
+  image="images/research/cancer_umap.png"
+  text=text
+%}
+These cells form a primary tumor which over time will form secondary pulmonary tumors and metastasize to the liver and brain. We have used this system to study the role of eicosanoids, PPAR signaling, immune cell regulation, and effects of checkpoint inhibitors on lung cancer progression and metastasis.  Most recently, we have shown that smooth muscle-derived AdvSca1-SM cells are activated in response to tumor formation and differentiate toward a myofibroblast phenotype to significantly contribute to lung cancer progression and metastasis. Ongoing research is focused on fully defining their contribution to cancer progression and mechanisms leading to their activation and differentiation to myofibroblasts.
