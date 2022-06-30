@@ -1,10 +1,10 @@
 ---
-name: Natalie Navarro
+name: Tysen Noble
 image: images/member.jpg
-description: Senior Professional Research Assistant
+description: Professional Research Assistant
 role: pra
 aliases:
-  - Natalie M Navarro
+  - Tysen D Noble
 ---
 Brief Bio
 A descriptions of academic studies, recent accomplishments, goals for the future, likes/dislikes, etc.

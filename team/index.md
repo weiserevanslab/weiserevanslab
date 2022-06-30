@@ -44,6 +44,9 @@ nav:
 
 {% include section.html %}
 - **Alumni**
+  - Marie Mutryn<br>
+  Senior Professional Research Assistant<br>
+  Currently: Pfizer
   - Keith Strand<br>
   Postdoc<br>
   Currently: Senior Scientist at Pfizer
