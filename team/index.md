@@ -25,12 +25,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: pra"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: postdoc"
 %}
 {%
@@ -38,6 +32,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: phd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pra"
 %}
 
 {:.center}
