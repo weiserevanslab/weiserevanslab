@@ -1,6 +1,6 @@
 ---
 name: Mary Weiser-Evans
-    image: images/team/weiserevans.jpg
+image: images/team/weiserevans.jpg
 description: Principal Investigator
 role: pi
 aliases:
