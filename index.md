@@ -3,7 +3,7 @@ title: Home
 ---
 
 # Welcome to the Weiser-Evans Laboratory
-Our group is interested in the study of
+Our laboratory focuses on vascular biology, with particular emphasis on smooth muscle cell (SMC) signaling and understanding the regulation of SMC phenotypic modulation in disease. We have developed novel genetic mouse models that allow inducible smooth muscle-specific knockout or overexpression of specific genes involved in progression of vascular disease. We routinely use a SMC fate-mapping approach developed in our lab to track mature SMCs in the setting of disease progression even if they lose all detectable expression of traditional SMC markers. This approach facilitates molecular analyses such as RNA-Seq, ChIP, and CyTOF mass cytometry. In vivo mouse genetic approaches are complemented by in vitro studies using cultured SMCs as well as co-culture systems that allow us to examine crosstalk between SMCs and inflammatory cells (e.g. macrophages).
 
 {:.center}
 
