@@ -59,6 +59,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true%}
 
+{:.center}
 We are recruiting! Please reach out to us if you are interested!
 
 {%
@@ -76,6 +77,8 @@ We are recruiting! Please reach out to us if you are interested!
 
 Our work is made possible by funding from several organizations.
 {:.center}
+
+
 
 {%
   include gallery.html
