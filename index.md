@@ -9,51 +9,9 @@ Our laboratory focuses on vascular biology, with particular emphasis on smooth m
 
 {% include section.html %}
 
-# Recent Highlights
+# Research Highlights
 
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The lab has been particularly interested in the role of the tumor suppressor PTEN as essential for directing SMC differentiation. We were one of the first to identify PTEN in SMCs as an essential regulator of pathological vascular remodeling and our most recent studies defined a novel function for PTEN in the nucleus as an essential transcriptional co-factor with SRF in the regulation of the SMC differentiation program. Importantly and clinically relevant, studying normal and diseased human coronary arteries, we established that loss of PTEN expression directly correlated with SMC dedifferentiation and atherosclerosis progression and complexity. An additional area of focus and serendipitous findings using fate-mapping approaches demonstrated that mature SMCs are genetically reprogrammed to give rise to a select subpopulation of resident adventitial vascular progenitor cells (AdvSca1-SM cells). We showed that adventitial SMC-derived stem cells are the predominant cell type responding to vessel wall dysfunction and matrix production. Ongoing studies are focused on defining the mechanisms driving SMC reprogramming, determining the distinct functions of adventitial SMC-derived stem cells in the maintenance and repair of the vessel wall as well as their role in disease progression, and determining their therapeutic potential in vascular repair, bioengineering of blood vessels, and in the revascularization of ischemic tissues. In addition to vascular biology-related studies, collaborative studies have been focused on defining the role of the tumor microenvironment in lung cancer progression and metastasis. We developed a novel lung cancer metastasis model that allows us to examine the role of the lung tumor microenvironment on lung cancer progression, to define specific signaling pathways activated in both cancer cells and the tumor microenvironment that regulate cancer progression, and to test potential therapeutic agents. Using our novel AdvSca1-SM cell reporter system, we discovered that AdvSca1-SM cells are major contributors to lung cancer progression and metastasis. While the role of cancer stem cells to cancer progression has been well established, the role of stromal progenitor/stem cells contributing to the tumor microenvironment and cancer progression and metastasis is a completely understudied area of research.
 
-[See what we do &nbsp;→](research)
+[More about our research &nbsp;→](research)
 {:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/research/research.png"
-  link="research"
-  headline="Our Research"
-  text=text
-%}
-
-{% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[See what we've published &nbsp;→](publications)
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/publications/jci.insight.cover.jpg"
-  link="publications"
-  headline="Our Publications"
-  text=text
-%}
-
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-[Meet our team &nbsp;→](team)
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/team/labphoto.jpg"
-  link="team"
-  headline="Our Team"
-  text=text
-%}
