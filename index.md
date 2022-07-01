@@ -11,7 +11,6 @@ Our laboratory focuses on vascular biology, with particular emphasis on smooth m
   image="images/team/labphoto.jpg"
   caption="The team at Stanley Marketplace"
   link="team"
-  width="400px"
 %}
 
 {% include section.html %}
