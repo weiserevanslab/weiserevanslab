@@ -1,6 +1,6 @@
 ---
 name: Aaron Pilotti-Riley
-image: images/member.jpg
+image: images/team/aaron.jpg
 description: Professional Research Assistant
 role: pra
 ---
