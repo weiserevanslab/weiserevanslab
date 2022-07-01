@@ -66,7 +66,7 @@ We are recruiting! Please reach out to us if you are interested!
   include link.html
   icon="fas fa-hands-helping"
   text="Join the Team"
-  link="contact"
+  link="join"
   style="button"
 %}
 {:.center}
