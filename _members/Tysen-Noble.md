@@ -1,6 +1,6 @@
 ---
 name: Tysen Noble
-image: images/member.jpg
+image: images/member.png
 description: Professional Research Assistant
 role: pra
 aliases:
