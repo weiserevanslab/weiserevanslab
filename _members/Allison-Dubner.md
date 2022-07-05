@@ -1,6 +1,6 @@
 ---
 name: Allison Dubner
-image: images/allisondubner.jpg
+image: images/team/allisondubner.jpg
 description: PhD Student
 role: phd
 aliases:
