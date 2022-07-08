@@ -5,7 +5,6 @@ description: Instructor
 role: instructor
 links:
     orcid: 0000-0002-9892-8784
-    email: sizhao.lu@cuanschutz.edu
     google-scholar: a99G7mIAAAAJ
     twitter:SizhaoLu
 ---
