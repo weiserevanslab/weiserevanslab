@@ -9,7 +9,7 @@ Our laboratory focuses on vascular biology, with particular emphasis on smooth m
 {%
   include figure.html
   image="images/team/labphoto.jpg"
-  caption="The team at Stanley Marketplace"
+  caption="The team at Cedar Creek Pub"
   link="team"
 %}
 
