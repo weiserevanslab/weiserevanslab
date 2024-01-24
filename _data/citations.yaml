@@ -249,3 +249,38 @@
   publisher: JCI insight
   date: '2023-05-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36976650
+- id: pubmed:37706321
+  title: 'Confounding Effects of Tamoxifen: Cautionary and Practical Considerations
+    for the Use of Tamoxifen-Inducible Mouse Models in Atherosclerosis Research-Brief
+    Report.'
+  authors:
+  - Allison M Dubner
+  - Sizhao Lu
+  - Austin J Jolly
+  - Tysen Noble
+  - Tyler Hinthorn
+  - Raphael A Nemenoff
+  - Karen S Moulton
+  - Mark W Majesky
+  - Mary C M Weiser-Evans
+  publisher: Arteriosclerosis, thrombosis, and vascular biology
+  date: '2023-09-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37706321
+- id: pubmed:37991018
+  title: Smooth muscle-derived adventitial progenitor cells direct atherosclerotic
+    plaque composition complexity in a Klf4-dependent manner.
+  authors:
+  - Allison M Dubner
+  - Sizhao Lu
+  - Austin J Jolly
+  - Keith A Strand
+  - Marie F Mutryn
+  - Tyler Hinthorn
+  - Tysen Noble
+  - Raphael A Nemenoff
+  - Karen S Moulton
+  - Mark W Majesky
+  - Mary Cm Weiser-Evans
+  publisher: JCI insight
+  date: '2023-11-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37991018
