@@ -1,6 +1,6 @@
 ---
 name: Jacob Elkins
-# image: images/team/tylerhinthorn.jpg
+# image: images/team/JakeElkins.jpg
 description: Professional Research Assistant
 role: pra
 aliases:
