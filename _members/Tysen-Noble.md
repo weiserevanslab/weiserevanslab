@@ -1,8 +1,8 @@
 ---
 name: Tysen Noble
 image: images/team/tysennoble.jpg
-description: Professional Research Assistant
-role: pra
+description: PhD Student
+role: phd
 aliases:
   - Tysen D Noble
 links:
