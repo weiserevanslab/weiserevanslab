@@ -1,7 +1,7 @@
 ---
 name: Sizhao Lu
 image: images/team/sizhaolu.jpg
-description: Instructor
+description: Research Assistant Professor
 role: instructor
 links:
     orcid: 0000-0002-9892-8784
